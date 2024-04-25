@@ -1,0 +1,5 @@
+# Ignorar todos os arquivos e pastas, exceto aqueles na pasta src
+*
+
+# Exceto a pasta src e seu conteúdo
+!src/
