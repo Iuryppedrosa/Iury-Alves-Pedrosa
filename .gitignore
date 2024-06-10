@@ -1,5 +1,0 @@
-# Ignorar todos os arquivos e pastas, exceto aquelas na pasta src de cada projeto
-/*
-
-# Exceto as pastas src e seu conteúdo dentro de cada projeto
-!/*/src/
